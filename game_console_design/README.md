@@ -2,7 +2,7 @@
 
 **NOTE:** I used metric system on my drafts (cm)
 
-##1. Panels
+## 1. Panels
 
 **USED WOOD THICKNESS**: 0.5cm
 
@@ -28,7 +28,7 @@
 
 **OTHER:** Screen border (NOT USED)
 
-##2. Structure
+## 2. Structure
 
 **USED WOOD THICKNESS**: 1.5cm
 
