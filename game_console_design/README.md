@@ -5,7 +5,9 @@
 1. Panels
 
 **USED WOOD THICKNESS**: 0.5cm
+
 ![pandraft](https://user-images.githubusercontent.com/32856358/39098266-424939d4-4668-11e8-80df-7b3ae34d18d9.png)
+
 **1/3:** side panels
 **2:** Bottom-front panel
 **2':** Top-front panel
@@ -20,5 +22,7 @@
 2. Structure
 
 **USED WOOD THICKNESS**: 1.5cm
+
 ![stdraft](https://github.com/fherbine/ISN_2017-06/blob/master/game_console_design/Struct_draft.jpeg?raw=true)
+
 > refer to this schema, you can found the differents parts in this directory
